@@ -3,7 +3,7 @@
 # Edit Here
 ##################################
 TimeZone="America/New_York"
-ardUser="cscadmin"
+ardUser="admin_account"
 proxyURL=""
 
 # System Tools
